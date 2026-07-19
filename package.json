@@ -1,0 +1,23 @@
+{
+  "name": "debloat",
+  "version": "0.4.1",
+  "description": "Your coding agent loads thousands of tokens before your first word. Here's the receipt — and disable the skills you never use.",
+  "bin": {
+    "debloat": "bin/debloat.js"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude-code",
+    "context",
+    "tokens",
+    "agent",
+    "cli"
+  ],
+  "license": "MIT",
+  "files": [
+    "bin"
+  ]
+}
